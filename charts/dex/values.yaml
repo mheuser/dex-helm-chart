@@ -39,7 +39,7 @@ grpc:
 
 
 # -- The manifest type from which the content of the `config` should be resolved from.
-# Con be `secret` or `configMap`.
+# Can be `secret` or `configMap`.
 configType: secret
 
 configSecret:
